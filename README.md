@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=180&section=header&text=João%20Paulo&amp&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Programação+web;C#,+SQL,+Python,+JavaScript;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Programa%C3%A7%C3%A3o+web;dotNET+SQL+Python+JavaScript;Vibe+coding" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Joao347&style=flat-square&color=58a6ff" alt="visitas" />
 
