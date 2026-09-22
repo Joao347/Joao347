@@ -29,7 +29,7 @@
   <img src="https://streak-stats.demolab.com?user=Joao347&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-## Conact
+## Contact
 
 <p>
   <a href="https://www.linkedin.com/in/joaopauloaimi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
