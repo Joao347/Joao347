@@ -12,10 +12,11 @@
 
 -  Computer science at Universidade do Vale do Itajaí
 
-## Languages
+## Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github" alt="skills" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,cs,cpp" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="skills" />
 </p>
 
 ## Stats
