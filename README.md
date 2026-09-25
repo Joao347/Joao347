@@ -22,8 +22,12 @@
 ## Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joao347&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao347&layout=compact&theme=tokyonight&hide_border=true" alt="linguagens" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      alt="Most used languages"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joao347&theme=tokyonight&layout=compact&custom_title=Skills&langs_count=5"
+    />
+  </a>
 </p>
 
 <p align="center">
